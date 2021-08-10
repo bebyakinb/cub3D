@@ -2,7 +2,7 @@
 This project is inspired by the world-famous [Wolfenstein 3D](http://users.atw.hu/wolf3d/) game, which
 was the first FPS ever.
 
-![alt text](https://github.com/bebyakinb/cub3D/blob/master/example.gif)
+![example.gif](https://github.com/bebyakinb/cub3D/blob/master/example.gif)
 
 ## To run it on your mashine:
 ```
